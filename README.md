@@ -1,6 +1,6 @@
 **Description**
 
-This backend project provides RESTful endpoints to support an **online reading and audio book** platform. It allows clients to interact with data models such as books, authors, and genres, making it a foundational component of a larger reading/audio streaming system.
+This project provides a backend solution for an **online reading and audiobook platform**, enabling RESTful access to books, authors, and genres. It serves as a core component of a larger digital reading and streaming system.
 
 **Tech Stack**
 
